@@ -1,0 +1,66 @@
+# Microsoft Fabric SKU Estimation Tool (Helper) - Ilustrative tool 
+
+----------
+
+> This tool is for helping with Fabric SKU estimations and that it is an illustrative, [non-official tool](https://microsoftcloudessentials-learninghub.github.io/Fabric-SKU-EstimationTool/), is intended for estimation purposes only. A more comprehensive [Microsoft Capacity Estimator tool](https://www.microsoft.com/en-us/microsoft-fabric/capacity-estimator) `is now in public preview General Availability (GA)`. Please stay tuned for updates. 
+
+<details>
+<summary><b>List of References</b> (Click to expand)</summary>
+  
+- [Empowering businesses with smart capacity planning: Introducing the Microsoft Fabric SKU estimator (Preview)](https://blog.fabric.microsoft.com/en-US/blog/empowering-businesses-with-smart-capacity-planning-introducing-the-microsoft-fabric-sku-estimator/)
+- [Announcing New Recruitment for the Private Preview of Microsoft Fabric SKU Estimator](https://blog.fabric.microsoft.com/en-us/blog/announcing-new-recruitment-for-the-private-preview-of-microsoft-fabric-sku-estimator?ft=All)
+- [Announcing the Fabric Roadmap](https://blog.fabric.microsoft.com/en-us/blog/announcing-the-fabric-roadmap?ft=All)
+
+</details>
+
+<details> 
+<summary><b> Before Fabric</b> (Click to expand)</summary>
+
+<p float="left">
+  <img src="https://github.com/brown9804/MSCloudEssentials_LPath/assets/24630902/c47ad7c0-375e-4257-b56e-7b3b89619e2f" width="450" height="200" />
+  <img src="https://github.com/user-attachments/assets/1cbb0198-774c-498d-ab60-2f4c8e2a4218" width="350" height="190" />
+</p>
+
+> E.g of a solution prior Microsoft Fabric:
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/af2aa6cb-0349-481b-abe4-d8c470551899" 
+       alt="Centered Image" 
+       style="width: 70%; border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
+
+> Now from one place:
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/aaf00cd7-531a-4dc8-bf2f-c7606c607b87" 
+       alt="Centered Image" 
+       style="width: 70%; border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/8fdb3198-8fda-4dd0-869e-b0dccb268a30" 
+       alt="Centered Image" 
+       style="width: 70%; border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
+
+From [Microsoft Documentation](https://learn.microsoft.com/pt-br/fabric/fundamentals/microsoft-fabric-overview)
+
+</details>
+
+> [!IMPORTANT]
+> Please note that `these demos are intended as a guide and are based on my personal experiences. For official guidance, support, or more detailed information, please refer to Microsoft's official documentation or contact Microsoft directly`: [Microsoft Sales and Support](https://support.microsoft.com/contactus?ContactUsExperienceEntryPointAssetId=S.HP.SMC-HOME)
+
+https://github.com/user-attachments/assets/36733493-2717-46a2-a8e6-49d8298613f7
+
+## Overview
+
+- `.github/`: Contains GitHub-specific files, such as GitHub Actions workflows.
+- `src/`: Directory for source files, including HTML, CSS, and JavaScript files.
+  - `index.html`: This file contains the structure and content of the web page. It includes the form for user inputs, labels, and a section to display the results. It also links to the CSS file for styling and the JavaScript file for functionality.
+  - `styles.css`: This file contains the styles for the web page. It defines the appearance of the elements, such as the layout, colors, fonts, and spacing. It ensures the web page looks visually appealing and is easy to use.
+  - `script.js`:  This file contains the JavaScript code that handles the logic for calculating the Fabric SKU based on user inputs. It processes the input data, performs the calculations, and updates the web page with the results.
+- `.gitignore`: Specifies files and directories that should be ignored by Git.
+- `LICENSE`: Contains the license information for the project.
+- `README.md`: Provides documentation about the project, including how to set it up and use it.
+
+
